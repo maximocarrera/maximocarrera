@@ -23,7 +23,7 @@ Actualmente estoy diseñando un juego de multijugador dentro de una extension de
   
 ---
 
-### 📫 Conéctate conmigo ()
+### 📫 Conéctate conmigo 
 
 * **LinkedIn:** https://www.linkedin.com/in/maximo-carrera
 * **Correo electrónico:** maximocarrera@hotmail1.com
